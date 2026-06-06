@@ -8,7 +8,8 @@
     "jsx": "react-jsx",
     "noUnusedLocals": false,
     "noUnusedParameters": false,
-    "strictNullChecks": false
+    "strictNullChecks": false,
+    "noEmit": false
   },
   "include": ["src/**/*.ts", "src/**/*.tsx"]
 }

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Search, Filter, Trash2, SlidersHorizontal } from 'lucide-react';
+import { Search, Filter, Trash2, SlidersHorizontal, ListTodo } from 'lucide-react';
 import { Header } from '@/components/layout/Header';
 import { TodoForm } from '@/components/todos/TodoForm';
 import { TodoItem } from '@/components/todos/TodoItem';
